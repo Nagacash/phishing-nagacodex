@@ -95,7 +95,7 @@ const App: React.FC = () => {
                   <LinkedInIcon />
                </a>
             </div>
-            <p>&copy; 2024 Phishing Analysis Tool. For educational and research purposes only.</p>
+            <p>&copy; 2025 Phishing Analysis Tool. For educational and research purposes only.</p>
           </div>
         </footer>
       </main>
