@@ -1,0 +1,5 @@
+{
+  "name": "Phishing Email Analysis & Awareness Tool",
+  "description": "An interactive web application to analyze potential phishing emails, understand their characteristics, and generate simulated training emails using the Gemini API.",
+  "requestFramePermissions": []
+}
